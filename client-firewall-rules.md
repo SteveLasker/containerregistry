@@ -100,7 +100,7 @@ produces a url with `[region].data.mcr.microsoft.com` :
 
 ## Support
 
-To contact Microsoft Support: [azure.microsoft.com/support/create-ticket/](https://azure.microsoft.com/support/create-ticket/)
+To contact Microsoft Support: [azure.microsoft.com/support/create-ticket/](https://azure.microsoft.com/support/create-ticket/).
 
 ## Rollout Status
 
